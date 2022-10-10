@@ -8,3 +8,4 @@
 8th script is made to give owner ,groupe and other users execution permission
 9th script is made to change owner and groupe permission to none and other users permission to all permissions granted
 10th script is made to change permissins of the file hello to specified permissions -rwxr-x-wx for the file hello
+11th script is made to mirror the mode of the file  hello to the mode of the file olleh

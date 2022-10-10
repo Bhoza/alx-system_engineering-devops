@@ -6,3 +6,4 @@
 6th script is used to add execute permission to the owner of the file hello
 7th script is made to add execute permission to the owner and the groupe owner,and read permission to the other users
 8th script is made to give owner ,groupe and other users execution permission
+9th script is made to change owner and groupe permission to none and other users permission to all permissions granted

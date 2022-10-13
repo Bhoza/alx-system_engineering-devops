@@ -5,3 +5,4 @@
 5th script is made to display the last 10 lines in the /etc/passwd directory
 6th script is made to print out the first 10 lines on the file /etc/passwd
 7th script is made to printout the third line of the file iacta
+8th script is made to create a file with some text inside

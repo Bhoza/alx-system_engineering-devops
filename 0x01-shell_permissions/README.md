@@ -9,4 +9,5 @@
 9th script is made to change owner and groupe permission to none and other users permission to all permissions granted
 10th script is made to change permissins of the file hello to specified permissions -rwxr-x-wx for the file hello
 11th script is made to mirror the mode of the file  hello to the mode of the file olleh
-11th script is made to add execute permissions to the current diretory and its subdirectory  for the user,group and all others without changing for the regular files
+12th script is made to add execute permissions to the current diretory and its subdirectory  for the user,group and all others without changing for the regular files
+13th script is made to create a directory call my_dir with permissions 751 located in the working directory

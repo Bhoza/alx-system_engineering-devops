@@ -11,3 +11,4 @@
 11th script is made to mirror the mode of the file  hello to the mode of the file olleh
 12th script is made to add execute permissions to the current diretory and its subdirectory  for the user,group and all others without changing for the regular files
 13th script is made to create a directory called my_dir with permissions 751 located on the working directory
+14th script is made to change the owner to vincent and the groupe owner to staff for all files and directories in the working directory

@@ -12,3 +12,5 @@
 12th script is made to add execute permissions to the current diretory and its subdirectory  for the user,group and all others without changing for the regular files
 13th script is made to create a directory called my_dir with permissions 751 located on the working directory
 14th script is made to change the owner to vincent and the groupe owner to staff for all files and directories in the working directory
+15th script is made to change ownership to vincent and group ownership to staff for the file _hello
+

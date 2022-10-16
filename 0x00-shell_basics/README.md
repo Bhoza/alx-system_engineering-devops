@@ -11,3 +11,4 @@ first script is made to print the absolute path name of the current woring direc
 11th script is made to change the working directory to the previous one
 12th script is mad to list all content working directory ,parent of the working directory and the /boot directory in long format also showing even hidden content
 13th script is made to print out file type for /tmp/iamafile file
+14th scrit is made to Create a symbolic link to /bin/ls, named __ls__ in the working directory

@@ -4,3 +4,4 @@ first script is made to print the absolute path name of the current woring direc
 4th script is made to list content in the current directory in the long format
 5th script is made to list all content in current directory including the hidden files
 6th script is made to list content in corent directory in long format, with user and group IDS displayed numerically and hidden files showing
+7th script is made to create directory name my_first_directory in the /tmp/directory

@@ -16,3 +16,4 @@ first script is made to print the absolute path name of the current woring direc
 16th script is made to move all files beginning with an uppercase letter to the directory /tmp/u
 17th script is made to delete all files that end with the ~ character in the current directory
 18th script is made to create directories welcome/ welcome/to/ and welcome/to/school in the current directory
+19th script is made to list content accourding to instructions

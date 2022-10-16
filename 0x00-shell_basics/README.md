@@ -12,3 +12,4 @@ first script is made to print the absolute path name of the current woring direc
 12th script is mad to list all content working directory ,parent of the working directory and the /boot directory in long format also showing even hidden content
 13th script is made to print out file type for /tmp/iamafile file
 14th scrit is made to Create a symbolic link to /bin/ls, named __ls__ in the working directory
+15th script is made to create a script that copiers all html files that have the .html extension to the parent directory ,but only vopy files that did not exist or are new than the ones in the parent directory

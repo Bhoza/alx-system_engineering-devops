@@ -6,3 +6,4 @@ first script is made to print the absolute path name of the current woring direc
 6th script is made to list content in corent directory in long format, with user and group IDS displayed numerically and hidden files showing
 7th script is made to create directory name my_first_directory in the /tmp/directory
 8th script is made to move the file betty from /tmp/ to /tmp/my_first_directory
+9th script is made to delete the file betty which is in /tmp/my_first_directory

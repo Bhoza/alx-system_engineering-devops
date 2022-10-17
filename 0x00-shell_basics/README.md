@@ -17,3 +17,4 @@ first script is made to print the absolute path name of the current woring direc
 17th script is made to delete all files that end with the ~ character in the current directory
 18th script is made to create directories welcome/ welcome/to/ and welcome/to/school in the current directory
 19th script is made to list content accourding to instructions
+20th script is mad to create a magic file school magic tha can be used with the command file to detect school data files that always contain the string SCHOOL at offset 1

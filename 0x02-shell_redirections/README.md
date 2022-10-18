@@ -6,5 +6,5 @@
 6th script is made to print out the first 10 lines on the file /etc/passwd
 7th script is made to printout the third line of the file iacta
 8th script is made to create a file with some text inside
-10th script is made to duplicate the last ling of the file iacta in the file iacta
-11th scripts is made to delete all files with a .js extension in the working directory and all its subfolders
+9th script is made to duplicate the last line of the file iacta in the file iacta
+10th scripts is made to delete all files except those that end with with the .js extension in the working directory and all its subfolders

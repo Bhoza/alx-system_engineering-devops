@@ -8,3 +8,4 @@
 8th script is made to create a file with some text inside
 9th script is made to duplicate the last line of the file iacta in the file iacta
 10th scripts is made to delete all files except those that end with with the .js extension in the working directory and all its subfolders
+11th script is made to count the number of directories and subdirectories in the current directory
